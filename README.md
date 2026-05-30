@@ -24,6 +24,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Jolisha09/Leet_code/tree/main/0207-course-schedule/) | Medium |
+| [1791-find-center-of-star-graph](https://github.com/Jolisha09/Leet_code/tree/main/1791-find-center-of-star-graph/) | Easy |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
