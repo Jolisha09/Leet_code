@@ -86,6 +86,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Jolisha09/Leet_code/tree/main/0020-valid-parentheses/) | Easy |
+| [0143-reorder-list](https://github.com/Jolisha09/Leet_code/tree/main/0143-reorder-list/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Jolisha09/Leet_code/tree/main/0225-implement-stack-using-queues/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -110,11 +111,13 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Jolisha09/Leet_code/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0025-reverse-nodes-in-k-group](https://github.com/Jolisha09/Leet_code/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0143-reorder-list](https://github.com/Jolisha09/Leet_code/tree/main/0143-reorder-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/Jolisha09/Leet_code/tree/main/0328-odd-even-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Jolisha09/Leet_code/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0143-reorder-list](https://github.com/Jolisha09/Leet_code/tree/main/0143-reorder-list/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,4 +130,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Jolisha09/Leet_code/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0143-reorder-list](https://github.com/Jolisha09/Leet_code/tree/main/0143-reorder-list/) | Medium |
 <!---LeetCode Topics End-->
