@@ -42,6 +42,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Jolisha09/Leet_code/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Jolisha09/Leet_code/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jolisha09/Leet_code/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Jolisha09/Leet_code/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +52,7 @@
 | ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/Jolisha09/Leet_code/tree/main/0064-minimum-path-sum/) | Medium |
 | [0200-number-of-islands](https://github.com/Jolisha09/Leet_code/tree/main/0200-number-of-islands/) | Medium |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Jolisha09/Leet_code/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,6 +111,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Jolisha09/Leet_code/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Jolisha09/Leet_code/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
