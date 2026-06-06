@@ -55,6 +55,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Jolisha09/Leet_code/tree/main/0062-unique-paths/) | Medium |
+| [0319-bulb-switcher](https://github.com/Jolisha09/Leet_code/tree/main/0319-bulb-switcher/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,4 +143,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/Jolisha09/Leet_code/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0319-bulb-switcher](https://github.com/Jolisha09/Leet_code/tree/main/0319-bulb-switcher/) | Medium |
 <!---LeetCode Topics End-->
