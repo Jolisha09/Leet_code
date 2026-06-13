@@ -164,5 +164,6 @@
 | [0196-delete-duplicate-emails](https://github.com/Jolisha09/Leet_code/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/Jolisha09/Leet_code/tree/main/0197-rising-temperature/) | Easy |
 | [0626-exchange-seats](https://github.com/Jolisha09/Leet_code/tree/main/0626-exchange-seats/) | Medium |
+| [1757-recyclable-and-low-fat-products](https://github.com/Jolisha09/Leet_code/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Jolisha09/Leet_code/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
