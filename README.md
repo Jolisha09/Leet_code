@@ -169,6 +169,7 @@
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Jolisha09/Leet_code/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/Jolisha09/Leet_code/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/Jolisha09/Leet_code/tree/main/0584-find-customer-referee/) | Easy |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Jolisha09/Leet_code/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0595-big-countries](https://github.com/Jolisha09/Leet_code/tree/main/0595-big-countries/) | Easy |
 | [0626-exchange-seats](https://github.com/Jolisha09/Leet_code/tree/main/0626-exchange-seats/) | Medium |
 | [1068-product-sales-analysis-i](https://github.com/Jolisha09/Leet_code/tree/main/1068-product-sales-analysis-i/) | Easy |
