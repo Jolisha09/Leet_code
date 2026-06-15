@@ -167,6 +167,7 @@
 | [0197-rising-temperature](https://github.com/Jolisha09/Leet_code/tree/main/0197-rising-temperature/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/Jolisha09/Leet_code/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Jolisha09/Leet_code/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
+| [0577-employee-bonus](https://github.com/Jolisha09/Leet_code/tree/main/0577-employee-bonus/) | Easy |
 | [0595-big-countries](https://github.com/Jolisha09/Leet_code/tree/main/0595-big-countries/) | Easy |
 | [0626-exchange-seats](https://github.com/Jolisha09/Leet_code/tree/main/0626-exchange-seats/) | Medium |
 | [1068-product-sales-analysis-i](https://github.com/Jolisha09/Leet_code/tree/main/1068-product-sales-analysis-i/) | Easy |
