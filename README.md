@@ -179,6 +179,7 @@
 | [0626-exchange-seats](https://github.com/Jolisha09/Leet_code/tree/main/0626-exchange-seats/) | Medium |
 | [0627-swap-sex-of-employees](https://github.com/Jolisha09/Leet_code/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/Jolisha09/Leet_code/tree/main/1068-product-sales-analysis-i/) | Easy |
+| [1075-project-employees-i](https://github.com/Jolisha09/Leet_code/tree/main/1075-project-employees-i/) | Easy |
 | [1148-article-views-i](https://github.com/Jolisha09/Leet_code/tree/main/1148-article-views-i/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Jolisha09/Leet_code/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Jolisha09/Leet_code/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
