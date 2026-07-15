@@ -36,6 +36,7 @@
 | [0001-two-sum](https://github.com/Jolisha09/Leet_code/tree/main/0001-two-sum/) | Easy |
 | [0048-rotate-image](https://github.com/Jolisha09/Leet_code/tree/main/0048-rotate-image/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Jolisha09/Leet_code/tree/main/0064-minimum-path-sum/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Jolisha09/Leet_code/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Jolisha09/Leet_code/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Jolisha09/Leet_code/tree/main/0200-number-of-islands/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Jolisha09/Leet_code/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -68,6 +69,7 @@
 | [0062-unique-paths](https://github.com/Jolisha09/Leet_code/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Jolisha09/Leet_code/tree/main/0064-minimum-path-sum/) | Medium |
 | [0091-decode-ways](https://github.com/Jolisha09/Leet_code/tree/main/0091-decode-ways/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Jolisha09/Leet_code/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Jolisha09/Leet_code/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Jolisha09/Leet_code/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Jolisha09/Leet_code/tree/main/0322-coin-change/) | Medium |
