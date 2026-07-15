@@ -35,6 +35,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Jolisha09/Leet_code/tree/main/0001-two-sum/) | Easy |
 | [0048-rotate-image](https://github.com/Jolisha09/Leet_code/tree/main/0048-rotate-image/) | Medium |
+| [0053-maximum-subarray](https://github.com/Jolisha09/Leet_code/tree/main/0053-maximum-subarray/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Jolisha09/Leet_code/tree/main/0064-minimum-path-sum/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jolisha09/Leet_code/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Jolisha09/Leet_code/tree/main/0198-house-robber/) | Medium |
@@ -67,6 +68,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Jolisha09/Leet_code/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/Jolisha09/Leet_code/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Jolisha09/Leet_code/tree/main/0064-minimum-path-sum/) | Medium |
 | [0091-decode-ways](https://github.com/Jolisha09/Leet_code/tree/main/0091-decode-ways/) | Medium |
@@ -137,6 +139,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Jolisha09/Leet_code/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0053-maximum-subarray](https://github.com/Jolisha09/Leet_code/tree/main/0053-maximum-subarray/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
