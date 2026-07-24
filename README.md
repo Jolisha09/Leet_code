@@ -99,6 +99,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Jolisha09/Leet_code/tree/main/0020-valid-parentheses/) | Easy |
 | [0091-decode-ways](https://github.com/Jolisha09/Leet_code/tree/main/0091-decode-ways/) | Medium |
+| [0242-valid-anagram](https://github.com/Jolisha09/Leet_code/tree/main/0242-valid-anagram/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Jolisha09/Leet_code/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jolisha09/Leet_code/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Stack
@@ -209,6 +210,7 @@
 | [0001-two-sum](https://github.com/Jolisha09/Leet_code/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/Jolisha09/Leet_code/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Jolisha09/Leet_code/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Jolisha09/Leet_code/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Jolisha09/Leet_code/tree/main/0268-missing-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -216,6 +218,7 @@
 | [0088-merge-sorted-array](https://github.com/Jolisha09/Leet_code/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Jolisha09/Leet_code/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Jolisha09/Leet_code/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Jolisha09/Leet_code/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Jolisha09/Leet_code/tree/main/0268-missing-number/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
