@@ -37,6 +37,7 @@
 | [0014-longest-common-prefix](https://github.com/Jolisha09/Leet_code/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Jolisha09/Leet_code/tree/main/0015-3sum/) | Medium |
 | [0039-combination-sum](https://github.com/Jolisha09/Leet_code/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/Jolisha09/Leet_code/tree/main/0040-combination-sum-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Jolisha09/Leet_code/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Jolisha09/Leet_code/tree/main/0053-maximum-subarray/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Jolisha09/Leet_code/tree/main/0064-minimum-path-sum/) | Medium |
@@ -347,4 +348,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/Jolisha09/Leet_code/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/Jolisha09/Leet_code/tree/main/0040-combination-sum-ii/) | Medium |
 <!---LeetCode Topics End-->
