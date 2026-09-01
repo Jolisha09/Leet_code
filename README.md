@@ -68,6 +68,7 @@
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Jolisha09/Leet_code/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/Jolisha09/Leet_code/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Jolisha09/Leet_code/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3193-count-the-number-of-inversions](https://github.com/Jolisha09/Leet_code/tree/main/3193-count-the-number-of-inversions/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +109,7 @@
 | [0518-coin-change-ii](https://github.com/Jolisha09/Leet_code/tree/main/0518-coin-change-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Jolisha09/Leet_code/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jolisha09/Leet_code/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [3193-count-the-number-of-inversions](https://github.com/Jolisha09/Leet_code/tree/main/3193-count-the-number-of-inversions/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
