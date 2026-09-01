@@ -49,6 +49,7 @@
 | [0217-contains-duplicate](https://github.com/Jolisha09/Leet_code/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Jolisha09/Leet_code/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Jolisha09/Leet_code/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Jolisha09/Leet_code/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Jolisha09/Leet_code/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Jolisha09/Leet_code/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/Jolisha09/Leet_code/tree/main/0518-coin-change-ii/) | Medium |
@@ -103,6 +104,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Jolisha09/Leet_code/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Jolisha09/Leet_code/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/Jolisha09/Leet_code/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Jolisha09/Leet_code/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Jolisha09/Leet_code/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Jolisha09/Leet_code/tree/main/0713-subarray-product-less-than-k/) | Medium |
 ## String
@@ -187,6 +189,7 @@
 | [0143-reorder-list](https://github.com/Jolisha09/Leet_code/tree/main/0143-reorder-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Jolisha09/Leet_code/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0283-move-zeroes](https://github.com/Jolisha09/Leet_code/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Jolisha09/Leet_code/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/Jolisha09/Leet_code/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/Jolisha09/Leet_code/tree/main/0567-permutation-in-string/) | Medium |
 ## Monotonic Stack
@@ -272,8 +275,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Jolisha09/Leet_code/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Jolisha09/Leet_code/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Jolisha09/Leet_code/tree/main/0014-longest-common-prefix/) | Easy |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Jolisha09/Leet_code/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Jolisha09/Leet_code/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
