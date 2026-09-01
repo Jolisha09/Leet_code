@@ -40,6 +40,7 @@
 | [0053-maximum-subarray](https://github.com/Jolisha09/Leet_code/tree/main/0053-maximum-subarray/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Jolisha09/Leet_code/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Jolisha09/Leet_code/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/Jolisha09/Leet_code/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Jolisha09/Leet_code/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jolisha09/Leet_code/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/Jolisha09/Leet_code/tree/main/0169-majority-element/) | Easy |
@@ -126,6 +127,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Jolisha09/Leet_code/tree/main/0020-valid-parentheses/) | Easy |
+| [0084-largest-rectangle-in-histogram](https://github.com/Jolisha09/Leet_code/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0143-reorder-list](https://github.com/Jolisha09/Leet_code/tree/main/0143-reorder-list/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Jolisha09/Leet_code/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/Jolisha09/Leet_code/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
@@ -197,6 +199,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Jolisha09/Leet_code/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [1019-next-greater-node-in-linked-list](https://github.com/Jolisha09/Leet_code/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -291,4 +294,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Jolisha09/Leet_code/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Jolisha09/Leet_code/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
