@@ -95,6 +95,7 @@
 | [0064-minimum-path-sum](https://github.com/Jolisha09/Leet_code/tree/main/0064-minimum-path-sum/) | Medium |
 | [0091-decode-ways](https://github.com/Jolisha09/Leet_code/tree/main/0091-decode-ways/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jolisha09/Leet_code/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/Jolisha09/Leet_code/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0198-house-robber](https://github.com/Jolisha09/Leet_code/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Jolisha09/Leet_code/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Jolisha09/Leet_code/tree/main/0322-coin-change/) | Medium |
@@ -124,6 +125,7 @@
 | [0020-valid-parentheses](https://github.com/Jolisha09/Leet_code/tree/main/0020-valid-parentheses/) | Easy |
 | [0091-decode-ways](https://github.com/Jolisha09/Leet_code/tree/main/0091-decode-ways/) | Medium |
 | [0125-valid-palindrome](https://github.com/Jolisha09/Leet_code/tree/main/0125-valid-palindrome/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/Jolisha09/Leet_code/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Jolisha09/Leet_code/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/Jolisha09/Leet_code/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Jolisha09/Leet_code/tree/main/0344-reverse-string/) | Easy |
@@ -349,4 +351,5 @@
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/Jolisha09/Leet_code/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Jolisha09/Leet_code/tree/main/0040-combination-sum-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Jolisha09/Leet_code/tree/main/0131-palindrome-partitioning/) | Medium |
 <!---LeetCode Topics End-->
