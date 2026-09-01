@@ -35,6 +35,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Jolisha09/Leet_code/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Jolisha09/Leet_code/tree/main/0014-longest-common-prefix/) | Easy |
+| [0015-3sum](https://github.com/Jolisha09/Leet_code/tree/main/0015-3sum/) | Medium |
 | [0048-rotate-image](https://github.com/Jolisha09/Leet_code/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Jolisha09/Leet_code/tree/main/0053-maximum-subarray/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Jolisha09/Leet_code/tree/main/0064-minimum-path-sum/) | Medium |
@@ -177,6 +178,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Jolisha09/Leet_code/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Jolisha09/Leet_code/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Jolisha09/Leet_code/tree/main/0125-valid-palindrome/) | Easy |
 | [0143-reorder-list](https://github.com/Jolisha09/Leet_code/tree/main/0143-reorder-list/) | Medium |
@@ -253,6 +255,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Jolisha09/Leet_code/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Jolisha09/Leet_code/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Jolisha09/Leet_code/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Jolisha09/Leet_code/tree/main/0217-contains-duplicate/) | Easy |
