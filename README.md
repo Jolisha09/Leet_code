@@ -123,6 +123,7 @@
 | [0242-valid-anagram](https://github.com/Jolisha09/Leet_code/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Jolisha09/Leet_code/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/Jolisha09/Leet_code/tree/main/0567-permutation-in-string/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/Jolisha09/Leet_code/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Jolisha09/Leet_code/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jolisha09/Leet_code/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Stack
@@ -200,6 +201,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Jolisha09/Leet_code/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/Jolisha09/Leet_code/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/Jolisha09/Leet_code/tree/main/0567-permutation-in-string/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/Jolisha09/Leet_code/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -318,4 +320,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/Jolisha09/Leet_code/tree/main/0493-reverse-pairs/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0680-valid-palindrome-ii](https://github.com/Jolisha09/Leet_code/tree/main/0680-valid-palindrome-ii/) | Easy |
 <!---LeetCode Topics End-->
