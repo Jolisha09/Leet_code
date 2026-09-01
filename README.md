@@ -122,6 +122,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Jolisha09/Leet_code/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/Jolisha09/Leet_code/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Jolisha09/Leet_code/tree/main/0344-reverse-string/) | Easy |
+| [0443-string-compression](https://github.com/Jolisha09/Leet_code/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/Jolisha09/Leet_code/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Jolisha09/Leet_code/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Jolisha09/Leet_code/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -200,6 +201,7 @@
 | [0283-move-zeroes](https://github.com/Jolisha09/Leet_code/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Jolisha09/Leet_code/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/Jolisha09/Leet_code/tree/main/0344-reverse-string/) | Easy |
+| [0443-string-compression](https://github.com/Jolisha09/Leet_code/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/Jolisha09/Leet_code/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Jolisha09/Leet_code/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Monotonic Stack
