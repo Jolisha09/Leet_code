@@ -12,6 +12,7 @@
 | [0200-number-of-islands](https://github.com/Jolisha09/Leet_code/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Jolisha09/Leet_code/tree/main/0207-course-schedule/) | Medium |
 | [0322-coin-change](https://github.com/Jolisha09/Leet_code/tree/main/0322-coin-change/) | Medium |
+| [2596-check-knight-tour-configuration](https://github.com/Jolisha09/Leet_code/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -21,6 +22,7 @@
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Jolisha09/Leet_code/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Jolisha09/Leet_code/tree/main/0207-course-schedule/) | Medium |
+| [2596-check-knight-tour-configuration](https://github.com/Jolisha09/Leet_code/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +65,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/Jolisha09/Leet_code/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jolisha09/Leet_code/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Jolisha09/Leet_code/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
+| [2596-check-knight-tour-configuration](https://github.com/Jolisha09/Leet_code/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Jolisha09/Leet_code/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -76,6 +79,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Jolisha09/Leet_code/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/Jolisha09/Leet_code/tree/main/0200-number-of-islands/) | Medium |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Jolisha09/Leet_code/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
+| [2596-check-knight-tour-configuration](https://github.com/Jolisha09/Leet_code/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Jolisha09/Leet_code/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -341,6 +345,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Jolisha09/Leet_code/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+| [2596-check-knight-tour-configuration](https://github.com/Jolisha09/Leet_code/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Jolisha09/Leet_code/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
