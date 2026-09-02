@@ -153,6 +153,7 @@
 | [0062-unique-paths](https://github.com/Jolisha09/Leet_code/tree/main/0062-unique-paths/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/Jolisha09/Leet_code/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0224-basic-calculator](https://github.com/Jolisha09/Leet_code/tree/main/0224-basic-calculator/) | Hard |
+| [0233-number-of-digit-one](https://github.com/Jolisha09/Leet_code/tree/main/0233-number-of-digit-one/) | Hard |
 | [0268-missing-number](https://github.com/Jolisha09/Leet_code/tree/main/0268-missing-number/) | Easy |
 | [0279-perfect-squares](https://github.com/Jolisha09/Leet_code/tree/main/0279-perfect-squares/) | Medium |
 | [0319-bulb-switcher](https://github.com/Jolisha09/Leet_code/tree/main/0319-bulb-switcher/) | Medium |
@@ -181,6 +182,7 @@
 | [0152-maximum-product-subarray](https://github.com/Jolisha09/Leet_code/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Jolisha09/Leet_code/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Jolisha09/Leet_code/tree/main/0213-house-robber-ii/) | Medium |
+| [0233-number-of-digit-one](https://github.com/Jolisha09/Leet_code/tree/main/0233-number-of-digit-one/) | Hard |
 | [0279-perfect-squares](https://github.com/Jolisha09/Leet_code/tree/main/0279-perfect-squares/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Jolisha09/Leet_code/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Jolisha09/Leet_code/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
@@ -307,6 +309,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Jolisha09/Leet_code/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0143-reorder-list](https://github.com/Jolisha09/Leet_code/tree/main/0143-reorder-list/) | Medium |
 | [0224-basic-calculator](https://github.com/Jolisha09/Leet_code/tree/main/0224-basic-calculator/) | Hard |
+| [0233-number-of-digit-one](https://github.com/Jolisha09/Leet_code/tree/main/0233-number-of-digit-one/) | Hard |
 | [0509-fibonacci-number](https://github.com/Jolisha09/Leet_code/tree/main/0509-fibonacci-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
