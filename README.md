@@ -210,6 +210,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Jolisha09/Leet_code/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Jolisha09/Leet_code/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Jolisha09/Leet_code/tree/main/0020-valid-parentheses/) | Easy |
+| [0065-valid-number](https://github.com/Jolisha09/Leet_code/tree/main/0065-valid-number/) | Hard |
 | [0072-edit-distance](https://github.com/Jolisha09/Leet_code/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/Jolisha09/Leet_code/tree/main/0091-decode-ways/) | Medium |
 | [0125-valid-palindrome](https://github.com/Jolisha09/Leet_code/tree/main/0125-valid-palindrome/) | Easy |
