@@ -105,6 +105,7 @@
 | [1046-last-stone-weight](https://github.com/Jolisha09/Leet_code/tree/main/1046-last-stone-weight/) | Easy |
 | [1095-find-in-mountain-array](https://github.com/Jolisha09/Leet_code/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jolisha09/Leet_code/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1642-furthest-building-you-can-reach](https://github.com/Jolisha09/Leet_code/tree/main/1642-furthest-building-you-can-reach/) | Medium |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Jolisha09/Leet_code/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/Jolisha09/Leet_code/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Jolisha09/Leet_code/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -288,6 +289,7 @@
 | [0767-reorganize-string](https://github.com/Jolisha09/Leet_code/tree/main/0767-reorganize-string/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Jolisha09/Leet_code/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/Jolisha09/Leet_code/tree/main/1046-last-stone-weight/) | Easy |
+| [1642-furthest-building-you-can-reach](https://github.com/Jolisha09/Leet_code/tree/main/1642-furthest-building-you-can-reach/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -453,6 +455,7 @@
 | [0621-task-scheduler](https://github.com/Jolisha09/Leet_code/tree/main/0621-task-scheduler/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Jolisha09/Leet_code/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0767-reorganize-string](https://github.com/Jolisha09/Leet_code/tree/main/0767-reorganize-string/) | Medium |
+| [1642-furthest-building-you-can-reach](https://github.com/Jolisha09/Leet_code/tree/main/1642-furthest-building-you-can-reach/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
