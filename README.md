@@ -112,6 +112,7 @@
 | [0327-count-of-range-sum](https://github.com/Jolisha09/Leet_code/tree/main/0327-count-of-range-sum/) | Hard |
 | [0330-patching-array](https://github.com/Jolisha09/Leet_code/tree/main/0330-patching-array/) | Hard |
 | [0335-self-crossing](https://github.com/Jolisha09/Leet_code/tree/main/0335-self-crossing/) | Hard |
+| [0336-palindrome-pairs](https://github.com/Jolisha09/Leet_code/tree/main/0336-palindrome-pairs/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Jolisha09/Leet_code/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Jolisha09/Leet_code/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0493-reverse-pairs](https://github.com/Jolisha09/Leet_code/tree/main/0493-reverse-pairs/) | Hard |
@@ -253,6 +254,7 @@
 | [0242-valid-anagram](https://github.com/Jolisha09/Leet_code/tree/main/0242-valid-anagram/) | Easy |
 | [0282-expression-add-operators](https://github.com/Jolisha09/Leet_code/tree/main/0282-expression-add-operators/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/Jolisha09/Leet_code/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [0336-palindrome-pairs](https://github.com/Jolisha09/Leet_code/tree/main/0336-palindrome-pairs/) | Hard |
 | [0344-reverse-string](https://github.com/Jolisha09/Leet_code/tree/main/0344-reverse-string/) | Easy |
 | [0420-strong-password-checker](https://github.com/Jolisha09/Leet_code/tree/main/0420-strong-password-checker/) | Hard |
 | [0443-string-compression](https://github.com/Jolisha09/Leet_code/tree/main/0443-string-compression/) | Medium |
@@ -465,6 +467,7 @@
 | [0217-contains-duplicate](https://github.com/Jolisha09/Leet_code/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Jolisha09/Leet_code/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Jolisha09/Leet_code/tree/main/0268-missing-number/) | Easy |
+| [0336-palindrome-pairs](https://github.com/Jolisha09/Leet_code/tree/main/0336-palindrome-pairs/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Jolisha09/Leet_code/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Jolisha09/Leet_code/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Jolisha09/Leet_code/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -514,6 +517,7 @@
 | [0014-longest-common-prefix](https://github.com/Jolisha09/Leet_code/tree/main/0014-longest-common-prefix/) | Easy |
 | [0139-word-break](https://github.com/Jolisha09/Leet_code/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/Jolisha09/Leet_code/tree/main/0140-word-break-ii/) | Hard |
+| [0336-palindrome-pairs](https://github.com/Jolisha09/Leet_code/tree/main/0336-palindrome-pairs/) | Hard |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -629,6 +633,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/Jolisha09/Leet_code/tree/main/0214-shortest-palindrome/) | Hard |
+| [0336-palindrome-pairs](https://github.com/Jolisha09/Leet_code/tree/main/0336-palindrome-pairs/) | Hard |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
