@@ -23,6 +23,7 @@
 | [0200-number-of-islands](https://github.com/Jolisha09/Leet_code/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Jolisha09/Leet_code/tree/main/0207-course-schedule/) | Medium |
 | [0279-perfect-squares](https://github.com/Jolisha09/Leet_code/tree/main/0279-perfect-squares/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/Jolisha09/Leet_code/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0322-coin-change](https://github.com/Jolisha09/Leet_code/tree/main/0322-coin-change/) | Medium |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Jolisha09/Leet_code/tree/main/2477-minimum-fuel-cost-to-report-to-the-capital/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/Jolisha09/Leet_code/tree/main/2596-check-knight-tour-configuration/) | Medium |
@@ -242,6 +243,7 @@
 | [0214-shortest-palindrome](https://github.com/Jolisha09/Leet_code/tree/main/0214-shortest-palindrome/) | Hard |
 | [0224-basic-calculator](https://github.com/Jolisha09/Leet_code/tree/main/0224-basic-calculator/) | Hard |
 | [0242-valid-anagram](https://github.com/Jolisha09/Leet_code/tree/main/0242-valid-anagram/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/Jolisha09/Leet_code/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0344-reverse-string](https://github.com/Jolisha09/Leet_code/tree/main/0344-reverse-string/) | Easy |
 | [0443-string-compression](https://github.com/Jolisha09/Leet_code/tree/main/0443-string-compression/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Jolisha09/Leet_code/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -566,6 +568,7 @@
 | [0126-word-ladder-ii](https://github.com/Jolisha09/Leet_code/tree/main/0126-word-ladder-ii/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Jolisha09/Leet_code/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0140-word-break-ii](https://github.com/Jolisha09/Leet_code/tree/main/0140-word-break-ii/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/Jolisha09/Leet_code/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0494-target-sum](https://github.com/Jolisha09/Leet_code/tree/main/0494-target-sum/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
