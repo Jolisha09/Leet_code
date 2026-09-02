@@ -86,6 +86,7 @@
 | [0090-subsets-ii](https://github.com/Jolisha09/Leet_code/tree/main/0090-subsets-ii/) | Medium |
 | [0120-triangle](https://github.com/Jolisha09/Leet_code/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jolisha09/Leet_code/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0135-candy](https://github.com/Jolisha09/Leet_code/tree/main/0135-candy/) | Hard |
 | [0139-word-break](https://github.com/Jolisha09/Leet_code/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Jolisha09/Leet_code/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Jolisha09/Leet_code/tree/main/0169-majority-element/) | Easy |
@@ -508,6 +509,7 @@
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/Jolisha09/Leet_code/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Jolisha09/Leet_code/tree/main/0055-jump-game/) | Medium |
+| [0135-candy](https://github.com/Jolisha09/Leet_code/tree/main/0135-candy/) | Hard |
 | [0502-ipo](https://github.com/Jolisha09/Leet_code/tree/main/0502-ipo/) | Hard |
 | [0621-task-scheduler](https://github.com/Jolisha09/Leet_code/tree/main/0621-task-scheduler/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Jolisha09/Leet_code/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
