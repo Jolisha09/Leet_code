@@ -107,6 +107,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Jolisha09/Leet_code/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Jolisha09/Leet_code/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0312-burst-balloons](https://github.com/Jolisha09/Leet_code/tree/main/0312-burst-balloons/) | Hard |
+| [0321-create-maximum-number](https://github.com/Jolisha09/Leet_code/tree/main/0321-create-maximum-number/) | Hard |
 | [0322-coin-change](https://github.com/Jolisha09/Leet_code/tree/main/0322-coin-change/) | Medium |
 | [0327-count-of-range-sum](https://github.com/Jolisha09/Leet_code/tree/main/0327-count-of-range-sum/) | Hard |
 | [0330-patching-array](https://github.com/Jolisha09/Leet_code/tree/main/0330-patching-array/) | Hard |
@@ -278,6 +279,7 @@
 | [0155-min-stack](https://github.com/Jolisha09/Leet_code/tree/main/0155-min-stack/) | Medium |
 | [0224-basic-calculator](https://github.com/Jolisha09/Leet_code/tree/main/0224-basic-calculator/) | Hard |
 | [0225-implement-stack-using-queues](https://github.com/Jolisha09/Leet_code/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0321-create-maximum-number](https://github.com/Jolisha09/Leet_code/tree/main/0321-create-maximum-number/) | Hard |
 | [0946-validate-stack-sequences](https://github.com/Jolisha09/Leet_code/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Jolisha09/Leet_code/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Jolisha09/Leet_code/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
@@ -385,6 +387,7 @@
 | [0283-move-zeroes](https://github.com/Jolisha09/Leet_code/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Jolisha09/Leet_code/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Jolisha09/Leet_code/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0321-create-maximum-number](https://github.com/Jolisha09/Leet_code/tree/main/0321-create-maximum-number/) | Hard |
 | [0344-reverse-string](https://github.com/Jolisha09/Leet_code/tree/main/0344-reverse-string/) | Easy |
 | [0443-string-compression](https://github.com/Jolisha09/Leet_code/tree/main/0443-string-compression/) | Medium |
 | [0466-count-the-repetitions](https://github.com/Jolisha09/Leet_code/tree/main/0466-count-the-repetitions/) | Hard |
@@ -396,6 +399,7 @@
 | [0042-trapping-rain-water](https://github.com/Jolisha09/Leet_code/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Jolisha09/Leet_code/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Jolisha09/Leet_code/tree/main/0085-maximal-rectangle/) | Hard |
+| [0321-create-maximum-number](https://github.com/Jolisha09/Leet_code/tree/main/0321-create-maximum-number/) | Hard |
 | [1019-next-greater-node-in-linked-list](https://github.com/Jolisha09/Leet_code/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -553,6 +557,7 @@
 | [0045-jump-game-ii](https://github.com/Jolisha09/Leet_code/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Jolisha09/Leet_code/tree/main/0055-jump-game/) | Medium |
 | [0135-candy](https://github.com/Jolisha09/Leet_code/tree/main/0135-candy/) | Hard |
+| [0321-create-maximum-number](https://github.com/Jolisha09/Leet_code/tree/main/0321-create-maximum-number/) | Hard |
 | [0330-patching-array](https://github.com/Jolisha09/Leet_code/tree/main/0330-patching-array/) | Hard |
 | [0420-strong-password-checker](https://github.com/Jolisha09/Leet_code/tree/main/0420-strong-password-checker/) | Hard |
 | [0502-ipo](https://github.com/Jolisha09/Leet_code/tree/main/0502-ipo/) | Hard |
