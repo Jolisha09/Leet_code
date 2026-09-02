@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Jolisha09/Leet_code/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Jolisha09/Leet_code/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Jolisha09/Leet_code/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Jolisha09/Leet_code/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Jolisha09/Leet_code/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Jolisha09/Leet_code/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -25,6 +26,7 @@
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Jolisha09/Leet_code/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Jolisha09/Leet_code/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Jolisha09/Leet_code/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Jolisha09/Leet_code/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Jolisha09/Leet_code/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Jolisha09/Leet_code/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -219,6 +221,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Jolisha09/Leet_code/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/Jolisha09/Leet_code/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Jolisha09/Leet_code/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Jolisha09/Leet_code/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Jolisha09/Leet_code/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0143-reorder-list](https://github.com/Jolisha09/Leet_code/tree/main/0143-reorder-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/Jolisha09/Leet_code/tree/main/0328-odd-even-linked-list/) | Medium |
@@ -234,6 +237,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Jolisha09/Leet_code/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/Jolisha09/Leet_code/tree/main/0053-maximum-subarray/) | Medium |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Jolisha09/Leet_code/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0169-majority-element](https://github.com/Jolisha09/Leet_code/tree/main/0169-majority-element/) | Easy |
 | [0493-reverse-pairs](https://github.com/Jolisha09/Leet_code/tree/main/0493-reverse-pairs/) | Hard |
 ## Heap (Priority Queue)
@@ -454,6 +458,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Jolisha09/Leet_code/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Jolisha09/Leet_code/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Jolisha09/Leet_code/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jolisha09/Leet_code/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 ## Binary Lifting
