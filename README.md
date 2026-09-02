@@ -146,6 +146,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Jolisha09/Leet_code/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Jolisha09/Leet_code/tree/main/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/Jolisha09/Leet_code/tree/main/0509-fibonacci-number/) | Easy |
+| [0516-longest-palindromic-subsequence](https://github.com/Jolisha09/Leet_code/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/Jolisha09/Leet_code/tree/main/0518-coin-change-ii/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Jolisha09/Leet_code/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Jolisha09/Leet_code/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -181,6 +182,7 @@
 | [0242-valid-anagram](https://github.com/Jolisha09/Leet_code/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Jolisha09/Leet_code/tree/main/0344-reverse-string/) | Easy |
 | [0443-string-compression](https://github.com/Jolisha09/Leet_code/tree/main/0443-string-compression/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/Jolisha09/Leet_code/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0567-permutation-in-string](https://github.com/Jolisha09/Leet_code/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Jolisha09/Leet_code/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Jolisha09/Leet_code/tree/main/1143-longest-common-subsequence/) | Medium |
