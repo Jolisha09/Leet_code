@@ -204,6 +204,7 @@
 | [0322-coin-change](https://github.com/Jolisha09/Leet_code/tree/main/0322-coin-change/) | Medium |
 | [0343-integer-break](https://github.com/Jolisha09/Leet_code/tree/main/0343-integer-break/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Jolisha09/Leet_code/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0466-count-the-repetitions](https://github.com/Jolisha09/Leet_code/tree/main/0466-count-the-repetitions/) | Hard |
 | [0494-target-sum](https://github.com/Jolisha09/Leet_code/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/Jolisha09/Leet_code/tree/main/0509-fibonacci-number/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/Jolisha09/Leet_code/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -253,6 +254,7 @@
 | [0420-strong-password-checker](https://github.com/Jolisha09/Leet_code/tree/main/0420-strong-password-checker/) | Hard |
 | [0443-string-compression](https://github.com/Jolisha09/Leet_code/tree/main/0443-string-compression/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Jolisha09/Leet_code/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0466-count-the-repetitions](https://github.com/Jolisha09/Leet_code/tree/main/0466-count-the-repetitions/) | Hard |
 | [0516-longest-palindromic-subsequence](https://github.com/Jolisha09/Leet_code/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0567-permutation-in-string](https://github.com/Jolisha09/Leet_code/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Jolisha09/Leet_code/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -383,6 +385,7 @@
 | [0295-find-median-from-data-stream](https://github.com/Jolisha09/Leet_code/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0344-reverse-string](https://github.com/Jolisha09/Leet_code/tree/main/0344-reverse-string/) | Easy |
 | [0443-string-compression](https://github.com/Jolisha09/Leet_code/tree/main/0443-string-compression/) | Medium |
+| [0466-count-the-repetitions](https://github.com/Jolisha09/Leet_code/tree/main/0466-count-the-repetitions/) | Hard |
 | [0567-permutation-in-string](https://github.com/Jolisha09/Leet_code/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Jolisha09/Leet_code/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Monotonic Stack
