@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Jolisha09/Leet_code/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Jolisha09/Leet_code/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Jolisha09/Leet_code/tree/main/0199-binary-tree-right-side-view/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -19,10 +20,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Jolisha09/Leet_code/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Jolisha09/Leet_code/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Jolisha09/Leet_code/tree/main/0199-binary-tree-right-side-view/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Jolisha09/Leet_code/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Jolisha09/Leet_code/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Jolisha09/Leet_code/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Jolisha09/Leet_code/tree/main/0207-course-schedule/) | Medium |
