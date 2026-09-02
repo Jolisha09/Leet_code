@@ -109,6 +109,7 @@
 | [0312-burst-balloons](https://github.com/Jolisha09/Leet_code/tree/main/0312-burst-balloons/) | Hard |
 | [0322-coin-change](https://github.com/Jolisha09/Leet_code/tree/main/0322-coin-change/) | Medium |
 | [0327-count-of-range-sum](https://github.com/Jolisha09/Leet_code/tree/main/0327-count-of-range-sum/) | Hard |
+| [0330-patching-array](https://github.com/Jolisha09/Leet_code/tree/main/0330-patching-array/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Jolisha09/Leet_code/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Jolisha09/Leet_code/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0493-reverse-pairs](https://github.com/Jolisha09/Leet_code/tree/main/0493-reverse-pairs/) | Hard |
@@ -545,6 +546,7 @@
 | [0045-jump-game-ii](https://github.com/Jolisha09/Leet_code/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Jolisha09/Leet_code/tree/main/0055-jump-game/) | Medium |
 | [0135-candy](https://github.com/Jolisha09/Leet_code/tree/main/0135-candy/) | Hard |
+| [0330-patching-array](https://github.com/Jolisha09/Leet_code/tree/main/0330-patching-array/) | Hard |
 | [0420-strong-password-checker](https://github.com/Jolisha09/Leet_code/tree/main/0420-strong-password-checker/) | Hard |
 | [0502-ipo](https://github.com/Jolisha09/Leet_code/tree/main/0502-ipo/) | Hard |
 | [0621-task-scheduler](https://github.com/Jolisha09/Leet_code/tree/main/0621-task-scheduler/) | Medium |
