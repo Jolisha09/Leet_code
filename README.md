@@ -12,6 +12,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Jolisha09/Leet_code/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Jolisha09/Leet_code/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jolisha09/Leet_code/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Jolisha09/Leet_code/tree/main/2477-minimum-fuel-cost-to-report-to-the-capital/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -20,6 +21,7 @@
 | [0200-number-of-islands](https://github.com/Jolisha09/Leet_code/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Jolisha09/Leet_code/tree/main/0207-course-schedule/) | Medium |
 | [0322-coin-change](https://github.com/Jolisha09/Leet_code/tree/main/0322-coin-change/) | Medium |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Jolisha09/Leet_code/tree/main/2477-minimum-fuel-cost-to-report-to-the-capital/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/Jolisha09/Leet_code/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -43,12 +45,14 @@
 | [0207-course-schedule](https://github.com/Jolisha09/Leet_code/tree/main/0207-course-schedule/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Jolisha09/Leet_code/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jolisha09/Leet_code/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Jolisha09/Leet_code/tree/main/2477-minimum-fuel-cost-to-report-to-the-capital/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/Jolisha09/Leet_code/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Jolisha09/Leet_code/tree/main/0207-course-schedule/) | Medium |
 | [1791-find-center-of-star-graph](https://github.com/Jolisha09/Leet_code/tree/main/1791-find-center-of-star-graph/) | Easy |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Jolisha09/Leet_code/tree/main/2477-minimum-fuel-cost-to-report-to-the-capital/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
