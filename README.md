@@ -110,6 +110,7 @@
 | [0322-coin-change](https://github.com/Jolisha09/Leet_code/tree/main/0322-coin-change/) | Medium |
 | [0327-count-of-range-sum](https://github.com/Jolisha09/Leet_code/tree/main/0327-count-of-range-sum/) | Hard |
 | [0330-patching-array](https://github.com/Jolisha09/Leet_code/tree/main/0330-patching-array/) | Hard |
+| [0335-self-crossing](https://github.com/Jolisha09/Leet_code/tree/main/0335-self-crossing/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Jolisha09/Leet_code/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Jolisha09/Leet_code/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0493-reverse-pairs](https://github.com/Jolisha09/Leet_code/tree/main/0493-reverse-pairs/) | Hard |
@@ -166,6 +167,7 @@
 | [0268-missing-number](https://github.com/Jolisha09/Leet_code/tree/main/0268-missing-number/) | Easy |
 | [0279-perfect-squares](https://github.com/Jolisha09/Leet_code/tree/main/0279-perfect-squares/) | Medium |
 | [0319-bulb-switcher](https://github.com/Jolisha09/Leet_code/tree/main/0319-bulb-switcher/) | Medium |
+| [0335-self-crossing](https://github.com/Jolisha09/Leet_code/tree/main/0335-self-crossing/) | Hard |
 | [0343-integer-break](https://github.com/Jolisha09/Leet_code/tree/main/0343-integer-break/) | Medium |
 | [0509-fibonacci-number](https://github.com/Jolisha09/Leet_code/tree/main/0509-fibonacci-number/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Jolisha09/Leet_code/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -660,6 +662,7 @@
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0335-self-crossing](https://github.com/Jolisha09/Leet_code/tree/main/0335-self-crossing/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/Jolisha09/Leet_code/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## K-D Tree
 | Problem Name | Difficulty |
