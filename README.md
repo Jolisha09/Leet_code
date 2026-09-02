@@ -44,6 +44,7 @@
 | [0042-trapping-rain-water](https://github.com/Jolisha09/Leet_code/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/Jolisha09/Leet_code/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Jolisha09/Leet_code/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/Jolisha09/Leet_code/tree/main/0054-spiral-matrix/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Jolisha09/Leet_code/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Jolisha09/Leet_code/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/Jolisha09/Leet_code/tree/main/0078-subsets/) | Medium |
@@ -81,6 +82,7 @@
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Jolisha09/Leet_code/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/Jolisha09/Leet_code/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/Jolisha09/Leet_code/tree/main/0054-spiral-matrix/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Jolisha09/Leet_code/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Jolisha09/Leet_code/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/Jolisha09/Leet_code/tree/main/0200-number-of-islands/) | Medium |
@@ -358,6 +360,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Jolisha09/Leet_code/tree/main/0054-spiral-matrix/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Jolisha09/Leet_code/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/Jolisha09/Leet_code/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Jolisha09/Leet_code/tree/main/3612-process-string-with-special-operations-i/) | Medium |
