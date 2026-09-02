@@ -203,6 +203,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Jolisha09/Leet_code/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Jolisha09/Leet_code/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0143-reorder-list](https://github.com/Jolisha09/Leet_code/tree/main/0143-reorder-list/) | Medium |
+| [0155-min-stack](https://github.com/Jolisha09/Leet_code/tree/main/0155-min-stack/) | Medium |
 | [0224-basic-calculator](https://github.com/Jolisha09/Leet_code/tree/main/0224-basic-calculator/) | Hard |
 | [0225-implement-stack-using-queues](https://github.com/Jolisha09/Leet_code/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/Jolisha09/Leet_code/tree/main/0946-validate-stack-sequences/) | Medium |
@@ -211,6 +212,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/Jolisha09/Leet_code/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Jolisha09/Leet_code/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0622-design-circular-queue](https://github.com/Jolisha09/Leet_code/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/Jolisha09/Leet_code/tree/main/0641-design-circular-deque/) | Medium |
