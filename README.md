@@ -166,6 +166,7 @@
 | [0233-number-of-digit-one](https://github.com/Jolisha09/Leet_code/tree/main/0233-number-of-digit-one/) | Hard |
 | [0268-missing-number](https://github.com/Jolisha09/Leet_code/tree/main/0268-missing-number/) | Easy |
 | [0279-perfect-squares](https://github.com/Jolisha09/Leet_code/tree/main/0279-perfect-squares/) | Medium |
+| [0282-expression-add-operators](https://github.com/Jolisha09/Leet_code/tree/main/0282-expression-add-operators/) | Hard |
 | [0319-bulb-switcher](https://github.com/Jolisha09/Leet_code/tree/main/0319-bulb-switcher/) | Medium |
 | [0335-self-crossing](https://github.com/Jolisha09/Leet_code/tree/main/0335-self-crossing/) | Hard |
 | [0343-integer-break](https://github.com/Jolisha09/Leet_code/tree/main/0343-integer-break/) | Medium |
@@ -249,6 +250,7 @@
 | [0214-shortest-palindrome](https://github.com/Jolisha09/Leet_code/tree/main/0214-shortest-palindrome/) | Hard |
 | [0224-basic-calculator](https://github.com/Jolisha09/Leet_code/tree/main/0224-basic-calculator/) | Hard |
 | [0242-valid-anagram](https://github.com/Jolisha09/Leet_code/tree/main/0242-valid-anagram/) | Easy |
+| [0282-expression-add-operators](https://github.com/Jolisha09/Leet_code/tree/main/0282-expression-add-operators/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/Jolisha09/Leet_code/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0344-reverse-string](https://github.com/Jolisha09/Leet_code/tree/main/0344-reverse-string/) | Easy |
 | [0420-strong-password-checker](https://github.com/Jolisha09/Leet_code/tree/main/0420-strong-password-checker/) | Hard |
@@ -586,6 +588,7 @@
 | [0126-word-ladder-ii](https://github.com/Jolisha09/Leet_code/tree/main/0126-word-ladder-ii/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Jolisha09/Leet_code/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0140-word-break-ii](https://github.com/Jolisha09/Leet_code/tree/main/0140-word-break-ii/) | Hard |
+| [0282-expression-add-operators](https://github.com/Jolisha09/Leet_code/tree/main/0282-expression-add-operators/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/Jolisha09/Leet_code/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0494-target-sum](https://github.com/Jolisha09/Leet_code/tree/main/0494-target-sum/) | Medium |
 ## Algorithm X
