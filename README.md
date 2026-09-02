@@ -8,6 +8,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Jolisha09/Leet_code/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Jolisha09/Leet_code/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Jolisha09/Leet_code/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Jolisha09/Leet_code/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Jolisha09/Leet_code/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Jolisha09/Leet_code/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Jolisha09/Leet_code/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -31,6 +32,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Jolisha09/Leet_code/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Jolisha09/Leet_code/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Jolisha09/Leet_code/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Jolisha09/Leet_code/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Jolisha09/Leet_code/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Jolisha09/Leet_code/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Jolisha09/Leet_code/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -40,6 +42,7 @@
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Jolisha09/Leet_code/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Jolisha09/Leet_code/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Jolisha09/Leet_code/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Jolisha09/Leet_code/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Jolisha09/Leet_code/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Jolisha09/Leet_code/tree/main/0200-number-of-islands/) | Medium |
@@ -169,6 +172,7 @@
 | [0091-decode-ways](https://github.com/Jolisha09/Leet_code/tree/main/0091-decode-ways/) | Medium |
 | [0120-triangle](https://github.com/Jolisha09/Leet_code/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jolisha09/Leet_code/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Jolisha09/Leet_code/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Jolisha09/Leet_code/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/Jolisha09/Leet_code/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Jolisha09/Leet_code/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -640,4 +644,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/Jolisha09/Leet_code/tree/main/0279-perfect-squares/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Jolisha09/Leet_code/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 <!---LeetCode Topics End-->
