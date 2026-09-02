@@ -72,6 +72,7 @@
 | [0048-rotate-image](https://github.com/Jolisha09/Leet_code/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Jolisha09/Leet_code/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Jolisha09/Leet_code/tree/main/0054-spiral-matrix/) | Medium |
+| [0055-jump-game](https://github.com/Jolisha09/Leet_code/tree/main/0055-jump-game/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Jolisha09/Leet_code/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Jolisha09/Leet_code/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/Jolisha09/Leet_code/tree/main/0078-subsets/) | Medium |
@@ -153,6 +154,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Jolisha09/Leet_code/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Jolisha09/Leet_code/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Jolisha09/Leet_code/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/Jolisha09/Leet_code/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/Jolisha09/Leet_code/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Jolisha09/Leet_code/tree/main/0064-minimum-path-sum/) | Medium |
 | [0072-edit-distance](https://github.com/Jolisha09/Leet_code/tree/main/0072-edit-distance/) | Medium |
@@ -486,6 +488,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/Jolisha09/Leet_code/tree/main/0055-jump-game/) | Medium |
 | [0502-ipo](https://github.com/Jolisha09/Leet_code/tree/main/0502-ipo/) | Hard |
 | [0621-task-scheduler](https://github.com/Jolisha09/Leet_code/tree/main/0621-task-scheduler/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Jolisha09/Leet_code/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
