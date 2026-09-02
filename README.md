@@ -87,6 +87,7 @@
 | [0518-coin-change-ii](https://github.com/Jolisha09/Leet_code/tree/main/0518-coin-change-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Jolisha09/Leet_code/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0622-design-circular-queue](https://github.com/Jolisha09/Leet_code/tree/main/0622-design-circular-queue/) | Medium |
+| [0641-design-circular-deque](https://github.com/Jolisha09/Leet_code/tree/main/0641-design-circular-deque/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Jolisha09/Leet_code/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Jolisha09/Leet_code/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Jolisha09/Leet_code/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
@@ -194,11 +195,13 @@
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Jolisha09/Leet_code/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0622-design-circular-queue](https://github.com/Jolisha09/Leet_code/tree/main/0622-design-circular-queue/) | Medium |
+| [0641-design-circular-deque](https://github.com/Jolisha09/Leet_code/tree/main/0641-design-circular-deque/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Jolisha09/Leet_code/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0622-design-circular-queue](https://github.com/Jolisha09/Leet_code/tree/main/0622-design-circular-queue/) | Medium |
+| [0641-design-circular-deque](https://github.com/Jolisha09/Leet_code/tree/main/0641-design-circular-deque/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -229,6 +232,7 @@
 | [0143-reorder-list](https://github.com/Jolisha09/Leet_code/tree/main/0143-reorder-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/Jolisha09/Leet_code/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0622-design-circular-queue](https://github.com/Jolisha09/Leet_code/tree/main/0622-design-circular-queue/) | Medium |
+| [0641-design-circular-deque](https://github.com/Jolisha09/Leet_code/tree/main/0641-design-circular-deque/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Jolisha09/Leet_code/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
