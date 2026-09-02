@@ -88,6 +88,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jolisha09/Leet_code/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0135-candy](https://github.com/Jolisha09/Leet_code/tree/main/0135-candy/) | Hard |
 | [0139-word-break](https://github.com/Jolisha09/Leet_code/tree/main/0139-word-break/) | Medium |
+| [0140-word-break-ii](https://github.com/Jolisha09/Leet_code/tree/main/0140-word-break-ii/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/Jolisha09/Leet_code/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Jolisha09/Leet_code/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/Jolisha09/Leet_code/tree/main/0198-house-robber/) | Medium |
@@ -176,6 +177,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Jolisha09/Leet_code/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Jolisha09/Leet_code/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/Jolisha09/Leet_code/tree/main/0139-word-break/) | Medium |
+| [0140-word-break-ii](https://github.com/Jolisha09/Leet_code/tree/main/0140-word-break-ii/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/Jolisha09/Leet_code/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Jolisha09/Leet_code/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Jolisha09/Leet_code/tree/main/0213-house-robber-ii/) | Medium |
@@ -221,6 +223,7 @@
 | [0125-valid-palindrome](https://github.com/Jolisha09/Leet_code/tree/main/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/Jolisha09/Leet_code/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/Jolisha09/Leet_code/tree/main/0139-word-break/) | Medium |
+| [0140-word-break-ii](https://github.com/Jolisha09/Leet_code/tree/main/0140-word-break-ii/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/Jolisha09/Leet_code/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0214-shortest-palindrome](https://github.com/Jolisha09/Leet_code/tree/main/0214-shortest-palindrome/) | Hard |
 | [0224-basic-calculator](https://github.com/Jolisha09/Leet_code/tree/main/0224-basic-calculator/) | Hard |
@@ -419,6 +422,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jolisha09/Leet_code/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0037-sudoku-solver](https://github.com/Jolisha09/Leet_code/tree/main/0037-sudoku-solver/) | Hard |
 | [0139-word-break](https://github.com/Jolisha09/Leet_code/tree/main/0139-word-break/) | Medium |
+| [0140-word-break-ii](https://github.com/Jolisha09/Leet_code/tree/main/0140-word-break-ii/) | Hard |
 | [0169-majority-element](https://github.com/Jolisha09/Leet_code/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Jolisha09/Leet_code/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Jolisha09/Leet_code/tree/main/0242-valid-anagram/) | Easy |
@@ -471,6 +475,7 @@
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Jolisha09/Leet_code/tree/main/0014-longest-common-prefix/) | Easy |
 | [0139-word-break](https://github.com/Jolisha09/Leet_code/tree/main/0139-word-break/) | Medium |
+| [0140-word-break-ii](https://github.com/Jolisha09/Leet_code/tree/main/0140-word-break-ii/) | Hard |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -529,6 +534,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/Jolisha09/Leet_code/tree/main/0139-word-break/) | Medium |
+| [0140-word-break-ii](https://github.com/Jolisha09/Leet_code/tree/main/0140-word-break-ii/) | Hard |
 | [0509-fibonacci-number](https://github.com/Jolisha09/Leet_code/tree/main/0509-fibonacci-number/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -540,6 +546,7 @@
 | [0078-subsets](https://github.com/Jolisha09/Leet_code/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Jolisha09/Leet_code/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Jolisha09/Leet_code/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0140-word-break-ii](https://github.com/Jolisha09/Leet_code/tree/main/0140-word-break-ii/) | Hard |
 | [0494-target-sum](https://github.com/Jolisha09/Leet_code/tree/main/0494-target-sum/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
