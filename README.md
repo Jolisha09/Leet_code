@@ -108,6 +108,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Jolisha09/Leet_code/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0312-burst-balloons](https://github.com/Jolisha09/Leet_code/tree/main/0312-burst-balloons/) | Hard |
 | [0322-coin-change](https://github.com/Jolisha09/Leet_code/tree/main/0322-coin-change/) | Medium |
+| [0327-count-of-range-sum](https://github.com/Jolisha09/Leet_code/tree/main/0327-count-of-range-sum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Jolisha09/Leet_code/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Jolisha09/Leet_code/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0493-reverse-pairs](https://github.com/Jolisha09/Leet_code/tree/main/0493-reverse-pairs/) | Hard |
@@ -220,6 +221,7 @@
 | [0268-missing-number](https://github.com/Jolisha09/Leet_code/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Jolisha09/Leet_code/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Jolisha09/Leet_code/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0327-count-of-range-sum](https://github.com/Jolisha09/Leet_code/tree/main/0327-count-of-range-sum/) | Hard |
 | [0493-reverse-pairs](https://github.com/Jolisha09/Leet_code/tree/main/0493-reverse-pairs/) | Hard |
 | [0713-subarray-product-less-than-k](https://github.com/Jolisha09/Leet_code/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/Jolisha09/Leet_code/tree/main/1095-find-in-mountain-array/) | Hard |
@@ -335,6 +337,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Jolisha09/Leet_code/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0169-majority-element](https://github.com/Jolisha09/Leet_code/tree/main/0169-majority-element/) | Easy |
 | [0218-the-skyline-problem](https://github.com/Jolisha09/Leet_code/tree/main/0218-the-skyline-problem/) | Hard |
+| [0327-count-of-range-sum](https://github.com/Jolisha09/Leet_code/tree/main/0327-count-of-range-sum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Jolisha09/Leet_code/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0493-reverse-pairs](https://github.com/Jolisha09/Leet_code/tree/main/0493-reverse-pairs/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/Jolisha09/Leet_code/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -359,6 +362,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Jolisha09/Leet_code/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0327-count-of-range-sum](https://github.com/Jolisha09/Leet_code/tree/main/0327-count-of-range-sum/) | Hard |
 | [0493-reverse-pairs](https://github.com/Jolisha09/Leet_code/tree/main/0493-reverse-pairs/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -514,22 +518,26 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0218-the-skyline-problem](https://github.com/Jolisha09/Leet_code/tree/main/0218-the-skyline-problem/) | Hard |
+| [0327-count-of-range-sum](https://github.com/Jolisha09/Leet_code/tree/main/0327-count-of-range-sum/) | Hard |
 | [0493-reverse-pairs](https://github.com/Jolisha09/Leet_code/tree/main/0493-reverse-pairs/) | Hard |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Jolisha09/Leet_code/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0218-the-skyline-problem](https://github.com/Jolisha09/Leet_code/tree/main/0218-the-skyline-problem/) | Hard |
+| [0327-count-of-range-sum](https://github.com/Jolisha09/Leet_code/tree/main/0327-count-of-range-sum/) | Hard |
 | [0493-reverse-pairs](https://github.com/Jolisha09/Leet_code/tree/main/0493-reverse-pairs/) | Hard |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Jolisha09/Leet_code/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0218-the-skyline-problem](https://github.com/Jolisha09/Leet_code/tree/main/0218-the-skyline-problem/) | Hard |
+| [0327-count-of-range-sum](https://github.com/Jolisha09/Leet_code/tree/main/0327-count-of-range-sum/) | Hard |
 | [0493-reverse-pairs](https://github.com/Jolisha09/Leet_code/tree/main/0493-reverse-pairs/) | Hard |
 ## Treap
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0327-count-of-range-sum](https://github.com/Jolisha09/Leet_code/tree/main/0327-count-of-range-sum/) | Hard |
 | [0493-reverse-pairs](https://github.com/Jolisha09/Leet_code/tree/main/0493-reverse-pairs/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
