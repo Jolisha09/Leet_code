@@ -68,6 +68,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Jolisha09/Leet_code/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Jolisha09/Leet_code/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Jolisha09/Leet_code/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+| [1095-find-in-mountain-array](https://github.com/Jolisha09/Leet_code/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jolisha09/Leet_code/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Jolisha09/Leet_code/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/Jolisha09/Leet_code/tree/main/2596-check-knight-tour-configuration/) | Medium |
@@ -131,6 +132,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Jolisha09/Leet_code/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0493-reverse-pairs](https://github.com/Jolisha09/Leet_code/tree/main/0493-reverse-pairs/) | Hard |
 | [0713-subarray-product-less-than-k](https://github.com/Jolisha09/Leet_code/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [1095-find-in-mountain-array](https://github.com/Jolisha09/Leet_code/tree/main/1095-find-in-mountain-array/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -385,4 +387,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Jolisha09/Leet_code/tree/main/0037-sudoku-solver/) | Hard |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1095-find-in-mountain-array](https://github.com/Jolisha09/Leet_code/tree/main/1095-find-in-mountain-array/) | Hard |
+## Ternary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1095-find-in-mountain-array](https://github.com/Jolisha09/Leet_code/tree/main/1095-find-in-mountain-array/) | Hard |
 <!---LeetCode Topics End-->
