@@ -41,6 +41,7 @@
 | [0037-sudoku-solver](https://github.com/Jolisha09/Leet_code/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/Jolisha09/Leet_code/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Jolisha09/Leet_code/tree/main/0040-combination-sum-ii/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Jolisha09/Leet_code/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/Jolisha09/Leet_code/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Jolisha09/Leet_code/tree/main/0053-maximum-subarray/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Jolisha09/Leet_code/tree/main/0064-minimum-path-sum/) | Medium |
@@ -99,6 +100,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Jolisha09/Leet_code/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Jolisha09/Leet_code/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/Jolisha09/Leet_code/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Jolisha09/Leet_code/tree/main/0064-minimum-path-sum/) | Medium |
@@ -150,6 +152,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Jolisha09/Leet_code/tree/main/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/Jolisha09/Leet_code/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Jolisha09/Leet_code/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0143-reorder-list](https://github.com/Jolisha09/Leet_code/tree/main/0143-reorder-list/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Jolisha09/Leet_code/tree/main/0225-implement-stack-using-queues/) | Easy |
@@ -215,6 +218,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Jolisha09/Leet_code/tree/main/0015-3sum/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Jolisha09/Leet_code/tree/main/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Jolisha09/Leet_code/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Jolisha09/Leet_code/tree/main/0125-valid-palindrome/) | Easy |
 | [0143-reorder-list](https://github.com/Jolisha09/Leet_code/tree/main/0143-reorder-list/) | Medium |
@@ -228,6 +232,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Jolisha09/Leet_code/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Jolisha09/Leet_code/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [1019-next-greater-node-in-linked-list](https://github.com/Jolisha09/Leet_code/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## Brainteaser
