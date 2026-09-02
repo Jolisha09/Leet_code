@@ -245,6 +245,7 @@
 | [0242-valid-anagram](https://github.com/Jolisha09/Leet_code/tree/main/0242-valid-anagram/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/Jolisha09/Leet_code/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0344-reverse-string](https://github.com/Jolisha09/Leet_code/tree/main/0344-reverse-string/) | Easy |
+| [0420-strong-password-checker](https://github.com/Jolisha09/Leet_code/tree/main/0420-strong-password-checker/) | Hard |
 | [0443-string-compression](https://github.com/Jolisha09/Leet_code/tree/main/0443-string-compression/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Jolisha09/Leet_code/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Jolisha09/Leet_code/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -344,6 +345,7 @@
 | [0218-the-skyline-problem](https://github.com/Jolisha09/Leet_code/tree/main/0218-the-skyline-problem/) | Hard |
 | [0295-find-median-from-data-stream](https://github.com/Jolisha09/Leet_code/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Jolisha09/Leet_code/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0420-strong-password-checker](https://github.com/Jolisha09/Leet_code/tree/main/0420-strong-password-checker/) | Hard |
 | [0451-sort-characters-by-frequency](https://github.com/Jolisha09/Leet_code/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0502-ipo](https://github.com/Jolisha09/Leet_code/tree/main/0502-ipo/) | Hard |
 | [0621-task-scheduler](https://github.com/Jolisha09/Leet_code/tree/main/0621-task-scheduler/) | Medium |
@@ -535,6 +537,7 @@
 | [0045-jump-game-ii](https://github.com/Jolisha09/Leet_code/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Jolisha09/Leet_code/tree/main/0055-jump-game/) | Medium |
 | [0135-candy](https://github.com/Jolisha09/Leet_code/tree/main/0135-candy/) | Hard |
+| [0420-strong-password-checker](https://github.com/Jolisha09/Leet_code/tree/main/0420-strong-password-checker/) | Hard |
 | [0502-ipo](https://github.com/Jolisha09/Leet_code/tree/main/0502-ipo/) | Hard |
 | [0621-task-scheduler](https://github.com/Jolisha09/Leet_code/tree/main/0621-task-scheduler/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Jolisha09/Leet_code/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
