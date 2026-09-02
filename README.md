@@ -145,6 +145,7 @@
 | [0125-valid-palindrome](https://github.com/Jolisha09/Leet_code/tree/main/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/Jolisha09/Leet_code/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Jolisha09/Leet_code/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0214-shortest-palindrome](https://github.com/Jolisha09/Leet_code/tree/main/0214-shortest-palindrome/) | Hard |
 | [0242-valid-anagram](https://github.com/Jolisha09/Leet_code/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Jolisha09/Leet_code/tree/main/0344-reverse-string/) | Easy |
 | [0443-string-compression](https://github.com/Jolisha09/Leet_code/tree/main/0443-string-compression/) | Medium |
@@ -405,4 +406,25 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jolisha09/Leet_code/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0214-shortest-palindrome](https://github.com/Jolisha09/Leet_code/tree/main/0214-shortest-palindrome/) | Hard |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/Jolisha09/Leet_code/tree/main/0214-shortest-palindrome/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/Jolisha09/Leet_code/tree/main/0214-shortest-palindrome/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/Jolisha09/Leet_code/tree/main/0214-shortest-palindrome/) | Hard |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/Jolisha09/Leet_code/tree/main/0214-shortest-palindrome/) | Hard |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/Jolisha09/Leet_code/tree/main/0214-shortest-palindrome/) | Hard |
 <!---LeetCode Topics End-->
