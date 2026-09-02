@@ -197,6 +197,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Jolisha09/Leet_code/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0025-reverse-nodes-in-k-group](https://github.com/Jolisha09/Leet_code/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0061-rotate-list](https://github.com/Jolisha09/Leet_code/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Jolisha09/Leet_code/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0143-reorder-list](https://github.com/Jolisha09/Leet_code/tree/main/0143-reorder-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/Jolisha09/Leet_code/tree/main/0328-odd-even-linked-list/) | Medium |
@@ -229,6 +230,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Jolisha09/Leet_code/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/Jolisha09/Leet_code/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Jolisha09/Leet_code/tree/main/0042-trapping-rain-water/) | Hard |
+| [0061-rotate-list](https://github.com/Jolisha09/Leet_code/tree/main/0061-rotate-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Jolisha09/Leet_code/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Jolisha09/Leet_code/tree/main/0125-valid-palindrome/) | Easy |
 | [0143-reorder-list](https://github.com/Jolisha09/Leet_code/tree/main/0143-reorder-list/) | Medium |
