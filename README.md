@@ -176,6 +176,7 @@
 | [0064-minimum-path-sum](https://github.com/Jolisha09/Leet_code/tree/main/0064-minimum-path-sum/) | Medium |
 | [0072-edit-distance](https://github.com/Jolisha09/Leet_code/tree/main/0072-edit-distance/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Jolisha09/Leet_code/tree/main/0085-maximal-rectangle/) | Hard |
+| [0087-scramble-string](https://github.com/Jolisha09/Leet_code/tree/main/0087-scramble-string/) | Hard |
 | [0091-decode-ways](https://github.com/Jolisha09/Leet_code/tree/main/0091-decode-ways/) | Medium |
 | [0120-triangle](https://github.com/Jolisha09/Leet_code/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jolisha09/Leet_code/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -226,6 +227,7 @@
 | [0020-valid-parentheses](https://github.com/Jolisha09/Leet_code/tree/main/0020-valid-parentheses/) | Easy |
 | [0065-valid-number](https://github.com/Jolisha09/Leet_code/tree/main/0065-valid-number/) | Hard |
 | [0072-edit-distance](https://github.com/Jolisha09/Leet_code/tree/main/0072-edit-distance/) | Medium |
+| [0087-scramble-string](https://github.com/Jolisha09/Leet_code/tree/main/0087-scramble-string/) | Hard |
 | [0091-decode-ways](https://github.com/Jolisha09/Leet_code/tree/main/0091-decode-ways/) | Medium |
 | [0125-valid-palindrome](https://github.com/Jolisha09/Leet_code/tree/main/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/Jolisha09/Leet_code/tree/main/0131-palindrome-partitioning/) | Medium |
