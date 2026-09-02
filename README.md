@@ -151,6 +151,7 @@
 | [0567-permutation-in-string](https://github.com/Jolisha09/Leet_code/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Jolisha09/Leet_code/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Jolisha09/Leet_code/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jolisha09/Leet_code/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jolisha09/Leet_code/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Jolisha09/Leet_code/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Jolisha09/Leet_code/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -180,6 +181,7 @@
 | [0567-permutation-in-string](https://github.com/Jolisha09/Leet_code/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Jolisha09/Leet_code/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Jolisha09/Leet_code/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jolisha09/Leet_code/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jolisha09/Leet_code/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jolisha09/Leet_code/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Prefix Sum
@@ -305,6 +307,7 @@
 | [0268-missing-number](https://github.com/Jolisha09/Leet_code/tree/main/0268-missing-number/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Jolisha09/Leet_code/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/Jolisha09/Leet_code/tree/main/0567-permutation-in-string/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jolisha09/Leet_code/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Jolisha09/Leet_code/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
