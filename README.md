@@ -89,6 +89,7 @@
 | [0090-subsets-ii](https://github.com/Jolisha09/Leet_code/tree/main/0090-subsets-ii/) | Medium |
 | [0120-triangle](https://github.com/Jolisha09/Leet_code/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jolisha09/Leet_code/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/Jolisha09/Leet_code/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0135-candy](https://github.com/Jolisha09/Leet_code/tree/main/0135-candy/) | Hard |
 | [0139-word-break](https://github.com/Jolisha09/Leet_code/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/Jolisha09/Leet_code/tree/main/0140-word-break-ii/) | Hard |
@@ -143,6 +144,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Jolisha09/Leet_code/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/Jolisha09/Leet_code/tree/main/0200-number-of-islands/) | Medium |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Jolisha09/Leet_code/tree/main/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable/) | Hard |
 ## Matrix
@@ -463,6 +465,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jolisha09/Leet_code/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0037-sudoku-solver](https://github.com/Jolisha09/Leet_code/tree/main/0037-sudoku-solver/) | Hard |
 | [0126-word-ladder-ii](https://github.com/Jolisha09/Leet_code/tree/main/0126-word-ladder-ii/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/Jolisha09/Leet_code/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0139-word-break](https://github.com/Jolisha09/Leet_code/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/Jolisha09/Leet_code/tree/main/0140-word-break-ii/) | Hard |
 | [0169-majority-element](https://github.com/Jolisha09/Leet_code/tree/main/0169-majority-element/) | Easy |
