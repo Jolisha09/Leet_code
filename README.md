@@ -117,6 +117,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Jolisha09/Leet_code/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0493-reverse-pairs](https://github.com/Jolisha09/Leet_code/tree/main/0493-reverse-pairs/) | Hard |
 | [0494-target-sum](https://github.com/Jolisha09/Leet_code/tree/main/0494-target-sum/) | Medium |
+| [0500-keyboard-row](https://github.com/Jolisha09/Leet_code/tree/main/0500-keyboard-row/) | Easy |
 | [0502-ipo](https://github.com/Jolisha09/Leet_code/tree/main/0502-ipo/) | Hard |
 | [0518-coin-change-ii](https://github.com/Jolisha09/Leet_code/tree/main/0518-coin-change-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Jolisha09/Leet_code/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -260,6 +261,7 @@
 | [0443-string-compression](https://github.com/Jolisha09/Leet_code/tree/main/0443-string-compression/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Jolisha09/Leet_code/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0466-count-the-repetitions](https://github.com/Jolisha09/Leet_code/tree/main/0466-count-the-repetitions/) | Hard |
+| [0500-keyboard-row](https://github.com/Jolisha09/Leet_code/tree/main/0500-keyboard-row/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/Jolisha09/Leet_code/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0567-permutation-in-string](https://github.com/Jolisha09/Leet_code/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Jolisha09/Leet_code/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -470,6 +472,7 @@
 | [0336-palindrome-pairs](https://github.com/Jolisha09/Leet_code/tree/main/0336-palindrome-pairs/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Jolisha09/Leet_code/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Jolisha09/Leet_code/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0500-keyboard-row](https://github.com/Jolisha09/Leet_code/tree/main/0500-keyboard-row/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Jolisha09/Leet_code/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/Jolisha09/Leet_code/tree/main/0567-permutation-in-string/) | Medium |
 | [0621-task-scheduler](https://github.com/Jolisha09/Leet_code/tree/main/0621-task-scheduler/) | Medium |
