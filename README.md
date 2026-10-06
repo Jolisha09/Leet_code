@@ -332,6 +332,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Jolisha09/Leet_code/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Jolisha09/Leet_code/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0143-reorder-list](https://github.com/Jolisha09/Leet_code/tree/main/0143-reorder-list/) | Medium |
+| [0206-reverse-linked-list](https://github.com/Jolisha09/Leet_code/tree/main/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/Jolisha09/Leet_code/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0622-design-circular-queue](https://github.com/Jolisha09/Leet_code/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/Jolisha09/Leet_code/tree/main/0641-design-circular-deque/) | Medium |
@@ -341,6 +342,7 @@
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Jolisha09/Leet_code/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0143-reorder-list](https://github.com/Jolisha09/Leet_code/tree/main/0143-reorder-list/) | Medium |
+| [0206-reverse-linked-list](https://github.com/Jolisha09/Leet_code/tree/main/0206-reverse-linked-list/) | Easy |
 | [0224-basic-calculator](https://github.com/Jolisha09/Leet_code/tree/main/0224-basic-calculator/) | Hard |
 | [0233-number-of-digit-one](https://github.com/Jolisha09/Leet_code/tree/main/0233-number-of-digit-one/) | Hard |
 | [0509-fibonacci-number](https://github.com/Jolisha09/Leet_code/tree/main/0509-fibonacci-number/) | Easy |
